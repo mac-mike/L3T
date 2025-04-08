@@ -1,7 +1,7 @@
 <!-- filename: 04_Exemplarische_Lehrkonzepte_von_Fernuniversitaeten.md -->
 <!-- title: Exemplarische Lehrkonzepte von Fernuniversitäten -->
 
-Wie sich die Technologien ins Lehrkonzept einbinden lassen und welche Anforderungen sich für die Beteiligten ergeben, wird im Folgenden veranschaulicht. Als erstes Beispiel wird auf die Open University UK als eine der größten Fernuniversitätn Europas eingegangen. Es folgt die Darstellung fachspezifischer Lehrkonzepte aus der einzigen staatlichen, deutschsprachigen FernUniversität in Hagen. Abschließend wird das Lehrmodell der Universitat Oberta de Catalunya als Beispiel für eine relativ junge und innovative Online-Universität vorgestellt.
+Wie sich die Technologien ins Lehrkonzept einbinden lassen und welche Anforderungen sich für die Beteiligten ergeben, wird im Folgenden veranschaulicht. Als erstes Beispiel wird auf die Open University UK als eine der größten Fernuniversitäten Europas eingegangen. Es folgt die Darstellung fachspezifischer Lehrkonzepte aus der einzigen staatlichen, deutschsprachigen FernUniversität in Hagen. Abschließend wird das Lehrmodell der Universitat Oberta de Catalunya als Beispiel für eine relativ junge und innovative Online-Universität vorgestellt.
 
 ## Technologieeinsatz in der Open University UK (OUUK)
 
@@ -9,14 +9,14 @@ Die Open University in Großbritannien (gegründet 1969) setzte anfangs ganz tra
 
 ## Lehrszenarien aus der FernUniversität in Hagen
 
-Der neben dem gedruckten Studienbrief vorhandene „Werkzeugbaukasten“ der FernUniversität in Hagen enthält eine Vielzahl von historisch gewachsenen IT-Tools für die Präsentation des Lehrangebots, der Lehrinhalte sowie für die Kommunikation zwischen Lehrpersonal und Studierenden und für die Vernetzung der Studierenden selbst. Einen guten Überblick hierüber bietet der „Kompass Lehre“ ([Kompass Lehre](https://www.fernuni-hagen.de/zli/blog/wp-content/uploads/2024/10/kompasslehre.pdf), (FeU, 2024a)). Dabei liegt der Medienmix in der Hand der Lehrenden und ist je nach Lehr-/Lernszenario unterschiedlich. Beispielhaft werden 4 unterschiedliche Lehr- und Lernszenarien angeführt: </blockquote>
+Der neben dem gedruckten Studienbrief vorhandene „Werkzeugbaukasten“ der FernUniversität in Hagen enthält eine Vielzahl von historisch gewachsenen IT-Tools für die Präsentation des Lehrangebots, der Lehrinhalte sowie für die Kommunikation zwischen Lehrpersonal und Studierenden und für die Vernetzung der Studierenden selbst. Einen guten Überblick hierüber bietet der Kompass Lehre ([Kompass Lehre](https://www.fernuni-hagen.de/zli/blog/wp-content/uploads/2024/10/kompasslehre.pdf), (FeU, 2024a)). Dabei liegt der Medienmix in der Hand der Lehrenden und ist je nach Lehr-/Lernszenario unterschiedlich. Beispielhaft werden 4 unterschiedliche Lehr- und Lernszenarien angeführt: </blockquote>
 
 - Asynchrone Formate mit geringer Interaktion (Typ I): Schriftliche Materialien, Video- und Audioformate
 - Synchrone Formate mit geringer Interaktion (Typ II): Online-, Präsenz- und Hybridvorlesungen
 - Asynchrone Formate mit hoher Interaktion (Typ III): Moodle- und H5P-Aktivitäten
 - Synchrone Formate mit hoher Interaktion (Typ IV): Online-, Präsenz- und Hybrideinheiten unter intensiver Beteiligung der Studierenden (kollaborative Methoden wie unter anderem „Flipped Classroom“) 
 
-Klausuren können sowohl in mündlicher als auch in schriftlicher Form in Präsenz oder online durchgeführt werden.
+Klausuren können sowohl in mündlicher als auch in schriftlicher Form sowie in Präsenz oder online durchgeführt werden.
 
 ### In der Praxis: Betreuung großer Teilnehmerzahlen bei der FernUniversität Hagen mit Moodle
 
@@ -28,4 +28,4 @@ Moodle ist in vielen Studiengängen in das Betreuungskonzept eingebunden. Es hab
 
 ## Lehrmodell der Universitat Oberta de Catalunya (UOC)
 
-Im Lehrmodell der UOC steht die Lernaktivät, die jeweils einen Teil des summativen Assessments ausmacht, im Mittelpunkt des Lernprozesses (UOC, 2009). Ressourcen, Betreuungsangebote und Kollaborationsmöglichkeiten werden, entsprechend des Szenarios, um eine Lernaktivität herum angeordnet. Wird in einem Szenario beispielsweise Wert auf den Diskurs des Inhalts gelegt, werden entsprechende Kommunikations- und Kollaborationstools angeboten. Sollen Studierende, im Sinne der nutzergenerierten Inhalte, die Lehrinhalte um eigene Beiträge erweitern und ergänzen, werden entsprechende Tools, wie etwa Blogs oder cloudbasierte Textverarbeitungsprogramme, zur gemeinsamen Erstellung, Diskussion und Verbreitung zur Verfügung gestellt und müssen Kriterien angeboten werden, die zur Qualitätssicherung herangezogen werden können. Die einzelnen Lernaktivitäten werden zu Beginn jedes neuen Semesters in Lernumgebungen im Virtual Campus der UOC angelegt. Eine solche Lernumgebung steht maximal 80 Studierenden zur Verfügung und wird jeweils von einer Tutorin oder einem Tutor betreut. Um den Lernprozess erfolgreich abzuschließen, müssen die Studierenden die einzelnen Aufgaben bearbeiten und eine kurze Onlineklausur am Ende des Semesters mitschreiben.
+Im Lehrmodell der UOC steht die Lernaktivität, die jeweils einen Teil des summativen Assessments ausmacht, im Mittelpunkt des Lernprozesses (UOC, 2009). Ressourcen, Betreuungsangebote und Kollaborationsmöglichkeiten werden, entsprechend dem Szenario, um eine Lernaktivität herum angeordnet. Wird in einem Szenario beispielsweise Wert auf den Diskurs des Inhalts gelegt, werden entsprechende Kommunikations- und Kollaborationstools angeboten. Sollen Studierende, im Sinne der nutzergenerierten Inhalte, die Lehrinhalte um eigene Beiträge erweitern und ergänzen, werden entsprechende Tools, wie etwa Blogs oder cloudbasierte Textverarbeitungsprogramme, zur gemeinsamen Erstellung, Diskussion und Verbreitung zur Verfügung gestellt und müssen Kriterien angeboten werden, die zur Qualitätssicherung herangezogen werden können. Die einzelnen Lernaktivitäten werden zu Beginn jedes neuen Semesters in Lernumgebungen im Virtual Campus der UOC angelegt. Eine solche Lernumgebung steht maximal 80 Studierenden zur Verfügung und wird jeweils von einer Tutorin oder einem Tutor betreut. Um den Lernprozess erfolgreich abzuschließen, müssen die Studierenden die einzelnen Aufgaben bearbeiten und eine kurze Onlineklausur am Ende des Semesters mitschreiben.
